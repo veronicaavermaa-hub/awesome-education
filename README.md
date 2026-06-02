@@ -24,7 +24,8 @@ __Tools__ contains services, apps, references, and specific tools that help lear
 
 ## Learning:
 - [KhanAcademy](https://www.khanacademy.org) - _Free_ __Web, iOS__ - Courses in many different subjects. Can be used solo, or be used to teach a class, with tools for a teacher to monitor the class's progress.
-
+- [ExpertRating](https://www.expertrating.com) - __Web__ - Online professional certification platform offering self-paced certifications across business, healthcare, fitness, technology, and other professional disciplines.
+  
 ## Tools:
 - [Classroom/Course Management](#classroomcourse-management)
 - [Organization/Note Taking](#organizationnote-taking)
